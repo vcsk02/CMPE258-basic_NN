@@ -39,7 +39,7 @@ Open in Colab: https://colab.research.google.com/drive/1ya4saipOxs4Qp2soZgMQhe5r
   - Proper `nn.Module` model
   - Standard optimizer + training loop
 
-Open in Colab: https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/notebooks/C_torch_module_3layer_builtin.ipynb
+Open in Colab: https://colab.research.google.com/drive/1J_qYoB2mI9criFiKhjPNNK1dqm9dyvH6?usp=sharing
 
 ### D) PyTorch Lightning
 - File: `notebooks/D_torch_lightning_3layer.ipynb`
