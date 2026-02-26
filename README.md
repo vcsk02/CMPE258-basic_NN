@@ -47,7 +47,7 @@ Open in Colab: https://colab.research.google.com/drive/1J_qYoB2mI9criFiKhjPNNK1d
   - LightningModule + Trainer
   - Cleaner training logs
 
-Open in Colab: https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/notebooks/D_torch_lightning_3layer.ipynb
+Open in Colab: https://colab.research.google.com/drive/1t2HKr9PJ364w6FVppCB0L8Klk5tZFjTS?usp=sharing
 
 ### E) TensorFlow variants (4 notebooks)
 - `notebooks/E1_tf_scratch_lowlevel.ipynb` — low-level variables + `GradientTape` + `tf.einsum`
