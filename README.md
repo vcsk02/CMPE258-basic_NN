@@ -31,7 +31,7 @@ Open in Colab: https://colab.research.google.com/drive/1TLH5yyBgQzGPGxHdEcyQBpmr
   - Forward uses `torch.einsum`
   - Backprop via autograd (but **no built-in layers**)
 
-Open in Colab: https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/notebooks/B_torch_scratch_3layer_no_layers.ipynb
+Open in Colab: https://colab.research.google.com/drive/1ya4saipOxs4Qp2soZgMQhe5rskE5NJfk?usp=sharing
 
 ### C) PyTorch class-based with `nn.Module`
 - File: `notebooks/C_torch_module_3layer_builtin.ipynb`
