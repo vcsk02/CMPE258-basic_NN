@@ -22,7 +22,7 @@ This repo contains **five+ Colab notebooks** implementing the same **3-layer MLP
   - Uses **`tf.einsum`** for matrix products (per requirement)
   - Loss curve + parity plot + **4D visualization via PCA→3D + color**
 
-Open in Colab: https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/notebooks/A_numpy_manual_3layer_einsum.ipynb
+Open in Colab: https://colab.research.google.com/drive/1TLH5yyBgQzGPGxHdEcyQBpmrLjHXR19H?usp=sharing
 
 ### B) PyTorch “from scratch” (no `nn.Linear`)
 - File: `notebooks/B_torch_scratch_3layer_no_layers.ipynb`
