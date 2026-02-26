@@ -59,7 +59,7 @@ Open in Colab:
 - https://colab.research.google.com/drive/13IUsMD8-aX1PJcByelkiJhYtgBLykHUn?usp=sharing 
 - https://colab.research.google.com/drive/1CyB84nzg2Xp7mfJDV6X7e7Sz3y52-QE4?usp=sharing 
 - https://colab.research.google.com/drive/1TqjopIud1mc-YndHuUFoTtKrDWP1izX9?usp=sharing  
-- https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/notebooks/E4_tf_highlevel_subclassing.ipynb  
+- https://colab.research.google.com/drive/1L1M0Omd3G1CQF5waQWEPnw5hVQ5Sxr_I?usp=sharing
 
 ---
 
