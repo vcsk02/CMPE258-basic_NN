@@ -56,7 +56,7 @@ Open in Colab: https://colab.research.google.com/drive/1t2HKr9PJ364w6FVppCB0L8Kl
 - `notebooks/E4_tf_highlevel_subclassing.ipynb` — subclassed `tf.keras.Model`
 
 Open in Colab:
-- https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/notebooks/E1_tf_scratch_lowlevel.ipynb  
+- https://colab.research.google.com/drive/13IUsMD8-aX1PJcByelkiJhYtgBLykHUn?usp=sharing 
 - https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/notebooks/E2_tf_builtin_layers.ipynb  
 - https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/notebooks/E3_tf_functional_api.ipynb  
 - https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/notebooks/E4_tf_highlevel_subclassing.ipynb  
